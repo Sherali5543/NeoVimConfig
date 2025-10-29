@@ -1,0 +1,6 @@
+require("lsp.opts")
+require("lsp.keymaps")
+require("lsp.lua.lua")
+require("lsp.cpp.cpp")
+require("lsp.tac.tac")
+require("lsp.python.python")
